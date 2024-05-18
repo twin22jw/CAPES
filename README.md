@@ -1,6 +1,6 @@
 # CAPES: Classify Areas with Potential and then Exclude the Stable pixels
 
-![CAPES approach](.png/CAPES.png)
+![CAPES approach](/png/CAPES.png)
 
 ## Description
 
